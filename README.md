@@ -5,7 +5,7 @@ such as ordering food, managing orders, handling vouchers, a selection of modes 
 How to Run
 To run the program, you need a C++ compiler. Follow these steps:
 
-Compile the RESTAURANT_START_MENU.cpp file using your C++ compiler.
+Compile the START_MENU.cpp file using your C++ compiler.
 Run the compiled executable to start the program.
 
 Features
