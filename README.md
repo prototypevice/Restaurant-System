@@ -2,7 +2,7 @@
 This is a console-based restaurant management system written in C++. It allows users to interact with a variety of features 
 such as ordering food, managing orders, handling vouchers, a selection of modes of payment, and many more.
 
-How to Run
+How to Run:
 To run the program, you need a C++ compiler. Follow these steps:
 
 Compile the START_MENU.cpp file using your C++ compiler.
